@@ -1,0 +1,15 @@
+h1 {
+	outline-color: black; text-align:center; 
+}
+
+body {
+	; color:black; font-family:phosphate; background:url("http://st.houzz.com/simgs/76311bb90e5d6555_4-1446/paint.jpg");
+}
+
+img {
+	align-items: center;
+}
+
+title {
+	font-size: 28
+}
